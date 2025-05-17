@@ -1,2 +1,4 @@
 *.pth filter=lfs diff=lfs merge=lfs -text
 *.pth
+models/resnet18_best.pth filter=lfs diff=lfs merge=lfs -text
+models/googlenet_best.pth filter=lfs diff=lfs merge=lfs -text
